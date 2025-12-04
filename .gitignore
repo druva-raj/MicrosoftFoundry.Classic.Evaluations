@@ -10,6 +10,9 @@ __pycache__/
 .Python
 *.so
 
+# Jupyter
+.ipynb_checkpoints/
+
 # Virtual environments
 venv/
 env/
